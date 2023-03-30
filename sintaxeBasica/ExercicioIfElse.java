@@ -1,6 +1,6 @@
-public class ExercicoIfElse01 {
+public class ExercicioIfElse {
 	public static void main(String[] args) {
-		System.out.println("Vasco");
+		System.out.println("foi");
 		double salario = 4665.0;
 		
 		if(salario < 1900.0) {
@@ -16,3 +16,4 @@ public class ExercicoIfElse01 {
 		}
 	}
 }
+

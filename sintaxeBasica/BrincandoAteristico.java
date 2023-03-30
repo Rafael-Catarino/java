@@ -1,4 +1,4 @@
-public class ExercicioBrincandoTriangulo {
+public class BrincandoAteristico {
 	public static void main(String[] args) {
 		for (int linha = 1; linha <= 10; linha++) {
 			System.out.print(linha);
@@ -61,3 +61,4 @@ public class ExercicioBrincandoTriangulo {
 		}
 	}
 }
+
