@@ -1,4 +1,3 @@
-
 public class While {
 	public static void main(String[] args) {
 		int index = 1;
@@ -10,5 +9,5 @@ public class While {
 			//++index;
 		}
 	}
-
 }
+

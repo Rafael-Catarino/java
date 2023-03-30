@@ -1,7 +1,6 @@
-
 public class SwitchCase {
 	public static void main(String[] args) {
-		int mes = 2;
+		int mes = 7;
 
         switch (mes) {
             case 1:
@@ -45,5 +44,4 @@ public class SwitchCase {
                 break;
         }
 	}
-
 }

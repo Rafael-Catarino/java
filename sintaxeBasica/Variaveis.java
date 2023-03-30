@@ -1,6 +1,4 @@
-
 public class Variaveis {
-	
 	public static void main(String[] args) {
 		
 		int idade, soma; /*Declarando uma variavel como inteira*/
@@ -35,5 +33,5 @@ public class Variaveis {
 		System.out.println(num3);
 		
 	}
-
 }
+
