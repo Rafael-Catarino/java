@@ -1,4 +1,4 @@
-public class Variaveis {
+public class ex03Variaveis {
 	public static void main(String[] args) {
 		
 		int idade, soma; /*Declarando uma variavel como inteira*/

@@ -1,4 +1,4 @@
-public class ExercicioTabuada2A100 {
+public class ex10ExercicioTabuada2A100 {
 	public static void main(String[] args) {
 		for(int num = 2; num <= 100; num++) {
 			for(int mult = 1; mult <= 10; mult++ ) {
