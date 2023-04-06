@@ -1,4 +1,4 @@
-public class ExercicioIfElse {
+public class ex09ExercicioIfElse {
 	public static void main(String[] args) {
 		System.out.println("foi");
 		double salario = 4665.0;

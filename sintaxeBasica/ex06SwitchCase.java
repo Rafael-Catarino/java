@@ -1,4 +1,4 @@
-public class SwitchCase {
+public class ex06SwitchCase {
 	public static void main(String[] args) {
 		int mes = 7;
 

@@ -1,4 +1,4 @@
-public class IfElse {
+public class ex04IfElse {
 	public static void main(String[] args) {
 		int idade = 19;
 		if(idade <= 18) {
