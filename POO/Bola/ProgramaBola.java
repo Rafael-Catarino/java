@@ -1,4 +1,4 @@
-public class Programa {
+public class ProgramaBola {
   public static void main(String[] args) {
     Bola bola1 = new Bola();
     bola1.setCor("black");

@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class Programa {
+public class ProgramaFilme {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     
@@ -19,8 +19,7 @@ public class Programa {
 
     Filme f1 = new Filme(titulo, diretor, descricao);
 
-    System.out.println(f1.getTitulo() + f1.getDescricao() +
-    f1.getDiretor());
+    System.out.println(f1.getTitulo() + "\n" + f1.getDescricao() + "\n" + f1.getDiretor());
     sc.close();
   }
 }
