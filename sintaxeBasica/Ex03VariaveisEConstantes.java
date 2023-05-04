@@ -1,10 +1,13 @@
-public class ex03Variaveis {
+public class Ex03VariaveisEConstantes {
 	public static void main(String[] args) {
-		
+
+		final int NUM = 60; /*Declaração de uma constante.*/
 		int idade, soma; /*Declarando uma variavel como inteira*/
 		
 		idade = 29;
 		System.out.println(idade);
+
+		System.out.println(NUM);
 		
 		soma = idade + 20;
 		System.out.println(soma);

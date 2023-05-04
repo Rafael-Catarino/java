@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ex13LeituraTeclado {
+public class ex12LeituraTeclado {
     public static void main(String[] args) {
         Scanner filme = new Scanner(System.in);
 
@@ -23,10 +23,10 @@ public class ex13LeituraTeclado {
             result = "Ótimo";
         }
 
-        System.out.println("""
+        System.out.printf("""
                 Filme: %s
                 Ano: %d
                 Avaliação: %s
-                """.formatted(nome, ano, result));
+                """,nome, ano, result);
     }
 }

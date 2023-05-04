@@ -1,4 +1,4 @@
-public class ex02VariavaisCharString {
+public class Ex02VariavaisCharString {
 	public static void main(String[] args){
 		
 		//char letra1 = 'r', letra2 = 'a', letra3 = 'f', letra4 = a', letra5 = 'e', letra6 = 'l';

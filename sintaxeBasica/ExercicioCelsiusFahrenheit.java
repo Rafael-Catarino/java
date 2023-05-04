@@ -1,4 +1,4 @@
-public class ex12CelsiusFahrenheit {
+public class ExercicioCelsiusFahrenheit {
     public static void main(String[] args) {
         int celsius = 30;
         int fahrenheit;

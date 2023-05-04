@@ -1,4 +1,4 @@
-public class ex08While {
+public class Ex08While {
 	public static void main(String[] args) {
 		int index = 1;
 		while(index <= 10) {
