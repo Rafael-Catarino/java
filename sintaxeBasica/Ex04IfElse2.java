@@ -1,4 +1,4 @@
-public class ex05IfElse2 {
+public class Ex04IfElse2 {
 	public static void main(String[] args) {
 		int idade = 19;
 		int quantidadePessoas = 3;

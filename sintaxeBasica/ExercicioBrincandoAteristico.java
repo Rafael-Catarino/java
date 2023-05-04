@@ -1,4 +1,4 @@
-public class ex11BrincandoAteristico {
+public class ExercicioBrincandoAteristico {
 	public static void main(String[] args) {
 		for (int linha = 1; linha <= 10; linha++) {
 			System.out.print(linha);
